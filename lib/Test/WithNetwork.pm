@@ -7,6 +7,8 @@ our $VERSION = '0.001000';
 
 # ABSTRACT: Indicate a test requires Network resources to work.
 
+our $AUTHORITY = 'cpan:KENTNL'; # AUTHORITY
+
 
 
 
