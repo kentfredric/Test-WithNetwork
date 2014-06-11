@@ -3,7 +3,11 @@ use warnings;
 
 package Test::WithNetwork;
 
+our $VERSION = '0.001000';
+
 # ABSTRACT: Indicate a test requires Network resources to work.
+
+# AUTHORITY
 
 =head1 SYNOPSIS
 
