@@ -9,6 +9,7 @@ META.yml
 Makefile.PL
 README
 dist.ini
+dist.ini.meta
 lib/Test/WithNetwork.pm
 maint-travis-ci/.gitrepo
 maint-travis-ci/.perltidyrc
